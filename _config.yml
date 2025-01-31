@@ -4,11 +4,11 @@ logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
+email: ZackaryElmo@gmail.com
+github_username: ZackaryElmo
 twitter_username: twitter
 instagram_username: instagram
-linkedin_username: linkedin
+linkedin_username: ZackaryElmo
 facebook_username: facebook
 
 # External API
@@ -21,7 +21,7 @@ google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
-baseurl:
+baseurl: /blog
 
 # Build settings
 plugins:
