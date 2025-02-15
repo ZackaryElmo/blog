@@ -25,8 +25,7 @@ thumbnail: "/assets/img/thumbnail/catloaf.png"
 
 では、料理しましょう！
   
-![](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/udon.gif)
-![](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/broth.gif)
+[イメージのドライブ](https://drive.google.com/file/d/1Cc4xYsHj9coJrySXs2ip5-TtM8s41uth/view?usp=sharing)
 
 ## どうでしたか?
 
@@ -40,6 +39,5 @@ thumbnail: "/assets/img/thumbnail/catloaf.png"
 
     そう思っていたが、天の声に「ご飯と前の牛肉を入れろ」と聞いた。
 
-    この組み合わせはおいしいという控え目に言う。ついに、私の味覚は日本に戻った。
-
-![](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/heaven.png)
+    この組み合わせはおいしいという控え目に言う。
+[ついに](https://drive.google.com/file/d/1G09QuE3uODzOmPMJ_DHfu0anwbs2VJ9M/view?usp=sharing)、私の味覚は日本に戻った。
