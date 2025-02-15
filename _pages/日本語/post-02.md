@@ -39,5 +39,6 @@ thumbnail: "/assets/img/thumbnail/catloaf.png"
 
     そう思っていたが、天の声に「ご飯と前の牛肉を入れろ」と聞いた。
 
-    この組み合わせはおいしいという控え目に言う。
-[ついに](https://drive.google.com/file/d/1G09QuE3uODzOmPMJ_DHfu0anwbs2VJ9M/view?usp=sharing)、私の味覚は日本に戻った。
+    この組み合わせはおいしいという控え目に言う。ついに、私の味覚は日本に戻った。
+
+[以上です](https://drive.google.com/file/d/1G09QuE3uODzOmPMJ_DHfu0anwbs2VJ9M/view?usp=sharing)
