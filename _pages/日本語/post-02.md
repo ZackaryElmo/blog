@@ -25,8 +25,8 @@ thumbnail: "/assets/img/thumbnail/catloaf.png"
 
 では、料理しましょう！
   
-![うどん](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/udon.gif)
-![うまそう](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/broth.gif)
+![](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/udon.gif)
+![](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/broth.gif)
 
 ## どうでしたか?
 
@@ -42,4 +42,4 @@ thumbnail: "/assets/img/thumbnail/catloaf.png"
 
     この組み合わせはおいしいという控え目に言う。ついに、私の味覚は日本に戻った。
 
-![rice](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/heaven.png)
+![](https://github.com/ZackaryElmo/blog/blob/e108f80a82f2298516b6f14a0238b6a8d861a502/assets/img/heaven.png)
